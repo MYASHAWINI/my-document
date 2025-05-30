@@ -104,7 +104,7 @@ Conclusion
 
 REST APIs are widely used due to their simplicity, scalability, and flexibility. They allow different clients to interact with the same API in a consistent manner, making them ideal for web services and cloud applications
 
-# npm and Express.js in a simple and approachable way:
+# npm and Express.js
 
 npm (Node Package Manager) Basics
 
